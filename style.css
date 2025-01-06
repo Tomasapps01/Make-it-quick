@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    background-color: #f9f9f9;
+}
+
+h1.title-main {
+    font-size: 48px;
+    color: violet;
+    text-shadow: 2px 2px 4px yellow;
+    margin-top: 50px;
+}
+
+h1.title-secondary {
+    font-size: 32px;
+    margin-top: 20px;
+}
+
+.purple-shadow {
+    color: violet;
+    text-shadow: 2px 2px 4px yellow;
+}
+
+.red-shadow {
+    color: red;
+    text-shadow: 2px 2px 4px orange;
+}
+
+.button {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 30px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+
+.purple {
+    background-color: #7d4caf;
+}
+
+.red {
+    background-color: #e63946;
+}
+
+#card-display img {
+    max-width: 300px;
+    margin-top: 20px;
+}
